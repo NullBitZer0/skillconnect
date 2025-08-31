@@ -1,0 +1,22 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.SkillConnect" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorPrimaryVariant">@color/blue_600</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/orange_500</item>
+        <item name="colorSecondaryVariant">@color/orange_600</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/blue_500</item>
+    </style>
+
+    <style name="Theme.SkillConnect.NoActionBar" parent="Theme.SkillConnect">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.SkillConnect.Splash" parent="Theme.SkillConnect.NoActionBar">
+        <item name="android:windowBackground">@color/blue_500</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

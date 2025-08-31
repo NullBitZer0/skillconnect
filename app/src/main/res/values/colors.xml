@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="blue_500">#3B82F6</color>
+    <color name="blue_600">#2563EB</color>
+    <color name="orange_500">#F97316</color>
+    <color name="orange_600">#EA580C</color>
+    <color name="green_500">#10B981</color>
+    <color name="purple_500">#8B5CF6</color>
+    <color name="yellow_400">#FBBF24</color>
+    <color name="red_500">#EF4444</color>
+
+    <!-- Background Colors -->
+    <color name="blue_100">#DBEAFE</color>
+    <color name="blue_50">#EFF6FF</color>
+    <color name="orange_100">#FFEDD5</color>
+    <color name="green_100">#D1FAE5</color>
+    <color name="purple_100">#E9D5FF</color>
+    <color name="yellow_100">#FEF3C7</color>
+    <color name="gray_50">#F9FAFB</color>
+    <color name="gray_100">#F3F4F6</color>
+    <color name="gray_200">#E5E7EB</color>
+
+    <!-- Text Colors -->
+    <color name="gray_800">#1F2937</color>
+    <color name="gray_700">#374151</color>
+    <color name="gray_600">#4B5563</color>
+    <color name="gray_500">#6B7280</color>
+    <color name="gray_400">#9CA3AF</color>
+
+    <!-- Status Colors -->
+    <color name="green_600">#059669</color>
+    <color name="yellow_600">#D97706</color>
+
+    <!-- Standard Android Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
