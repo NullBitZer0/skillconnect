@@ -97,7 +97,7 @@
                     android:background="@drawable/button_primary_bg"
                     android:backgroundTint="@color/white"
                     android:text="Edit Profile"
-                    android:textColor="@color/blue_500"
+                    android:textColor="@color/white"
                     android:textSize="14sp"
                     android:textStyle="bold" />
 

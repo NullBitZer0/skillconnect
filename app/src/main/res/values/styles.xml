@@ -1,5 +1,5 @@
 <resources>
-    <!-- Base application theme -->
+
     <style name="Theme.SkillConnect" parent="Theme.Material3.DayNight">
         <item name="colorPrimary">@color/blue_500</item>
         <item name="colorPrimaryVariant">@color/blue_600</item>

@@ -23,4 +23,13 @@
     <string name="use_current_location">Use Current Location</string>
     <string name="add_photos_optional">Add Photos (Optional)</string>
     <string name="tap_to_upload">Tap to upload</string>
+    <string name="welcome_back_alex">Welcome back, Alex !</string>
+    <string name="ready_to_connect">Ready to connect with your community?</string>
+    <string name="start_exploring">Start Exploring</string>
+    <string name="nearby_requests">Nearby Requests</string>
+    <string name="see_all">See All</string>
+    <string name="your_stats">Your Stats</string>
+    <string name="tasks">Task\ns</string>
+    <string name="rating">Rating</string>
+    <string name="skills">Skills</string>
 </resources>
